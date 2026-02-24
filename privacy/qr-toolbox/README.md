@@ -1,6 +1,6 @@
 # Política de Privacidade – QR Toolbox
 
-**Última atualização:** 18/02/2026
+**Última atualização:** 23/02/2026
 
 O aplicativo **QR Toolbox** foi criado para permitir **gerar** e **ler** QR Codes.  
 Respeitamos sua privacidade e buscamos coletar o mínimo possível de informações.
@@ -13,7 +13,8 @@ O **QR Toolbox não coleta, não armazena e não envia** para servidores externo
 
 - o conteúdo dos QR Codes gerados;
 - o conteúdo dos QR Codes lidos;
-- fotos, vídeos ou imagens da câmera.
+- fotos, vídeos ou imagens da câmera;
+- suas fotos ou arquivos pessoais.
 
 Todo o processamento acontece **localmente no seu dispositivo**.
 
@@ -24,16 +25,22 @@ Todo o processamento acontece **localmente no seu dispositivo**.
 O aplicativo pode solicitar as seguintes permissões, apenas para as funcionalidades descritas:
 
 ### Câmera
-
 - Usada exclusivamente para **ler QR Codes** em tempo real.
 - O app **não grava**, **não salva** e **não transmite** imagens/vídeos capturados.
 
-### Armazenamento / Acesso a arquivos (Downloads/Galeria)
+### Salvar na Galeria (apenas iOS)
+- No iOS, o app solicita permissão para **adicionar imagens** à sua galeria de fotos.
+- Esta permissão é usada **apenas para salvar** QR Codes que você gerar no aplicativo.
+- O app **não acessa**, **não lê** e **não visualiza** suas fotos existentes.
+- É uma permissão de **"apenas adicionar"** (add-only), não de leitura completa da galeria.
 
-- Usado exclusivamente para permitir que você **salve a imagem do QR Code gerado** na pasta **Downloads** (ou local equivalente).
-- O app **não acessa seus arquivos pessoais** para leitura, não faz varredura de pastas e não envia arquivos para servidores.
+### Android Photo Picker (Android)
+- No Android, usamos o **Android Photo Picker**, um seletor de fotos moderno e seguro do Google.
+- O app **não solicita permissão de armazenamento** e **não pode acessar seus arquivos**.
+- Para salvar QR Codes gerados, usamos a API MediaStore (sem permissões), que salva diretamente na pasta **Pictures/QR Codes**.
+- As imagens aparecem automaticamente na sua galeria, sem necessidade de permissões especiais.
 
-> Observação: em versões mais recentes do Android, o sistema pode solicitar confirmação do usuário para salvar arquivos no armazenamento do dispositivo.
+> Observação: o QR Toolbox **não solicita e não usa** permissões de leitura de armazenamento ou acesso completo à galeria. Você tem total controle e privacidade sobre seus arquivos.
 
 ---
 
@@ -72,7 +79,7 @@ O aplicativo não é direcionado especificamente a crianças e não coletamos in
 ## 7) Alterações nesta política
 
 Podemos atualizar esta Política de Privacidade periodicamente.  
-A data de “Última atualização” será ajustada quando houver mudanças.
+A data de "Última atualização" será ajustada quando houver mudanças.
 
 ---
 
@@ -81,3 +88,5 @@ A data de “Última atualização” será ajustada quando houver mudanças.
 Se você tiver dúvidas sobre esta Política de Privacidade, entre em contato:
 
 **E-mail:** diogo.santana.dev@gmail.com
+
+
