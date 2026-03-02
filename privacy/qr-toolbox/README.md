@@ -1,6 +1,6 @@
 # Política de Privacidade – QR Toolbox
 
-**Última atualização:** 23/02/2026
+**Última atualização:** 02/03/2026
 
 O aplicativo **QR Toolbox** foi criado para permitir **gerar** e **ler** QR Codes.  
 Respeitamos sua privacidade e buscamos coletar o mínimo possível de informações.
@@ -14,7 +14,8 @@ O **QR Toolbox não coleta, não armazena e não envia** para servidores externo
 - o conteúdo dos QR Codes gerados;
 - o conteúdo dos QR Codes lidos;
 - fotos, vídeos ou imagens da câmera;
-- suas fotos ou arquivos pessoais.
+- suas fotos ou arquivos pessoais;
+- suas preferências de idioma (armazenadas apenas localmente).
 
 Todo o processamento acontece **localmente no seu dispositivo**.
 
@@ -44,7 +45,22 @@ O aplicativo pode solicitar as seguintes permissões, apenas para as funcionalid
 
 ---
 
-## 3) Anúncios e serviços de terceiros
+## 3) Funcionalidades do aplicativo
+
+O QR Toolbox oferece:
+
+- **Geração de QR Codes:** Crie QR Codes a partir de texto ou URLs.
+- **Leitura de QR Codes:** Use a câmera para ler QR Codes em tempo real.
+- **Compartilhamento:** Compartilhe QR Codes gerados como imagem.
+- **Download:** Salve QR Codes gerados na sua galeria (pasta "QR Codes").
+- **Múltiplos idiomas:** Suporte completo para Português, English e Español.
+- **Interface intuitiva:** Menu lateral com configurações de idioma e informações do app.
+
+Todas estas funcionalidades operam **localmente** no seu dispositivo, sem enviar dados para servidores externos.
+
+---
+
+## 4) Anúncios e serviços de terceiros
 
 Se o aplicativo exibir anúncios, ele poderá utilizar serviços de terceiros (por exemplo, redes de anúncios).  
 Esses serviços podem coletar **identificadores do dispositivo** e dados de uso **de forma limitada** para:
@@ -56,34 +72,34 @@ O QR Toolbox **não compartilha** o conteúdo dos QR Codes com anunciantes.
 
 ---
 
-## 4) Armazenamento local
+## 5) Armazenamento local
 
-O aplicativo pode armazenar localmente preferências (por exemplo, configurações) para melhorar a experiência do usuário.  
-Esses dados permanecem no dispositivo.
+O aplicativo pode armazenar localmente preferências (por exemplo, idioma selecionado e outras configurações) para melhorar a experiência do usuário.  
+Esses dados permanecem no dispositivo e não são transmitidos para servidores externos.
 
 ---
 
-## 5) Segurança
+## 6) Segurança
 
 Adotamos medidas razoáveis para proteger os dados armazenados localmente.  
 Como não há cadastro nem servidor do app, não há banco de dados remoto com informações pessoais.
 
 ---
 
-## 6) Privacidade de crianças e adolescentes
+## 7) Privacidade de crianças e adolescentes
 
 O aplicativo não é direcionado especificamente a crianças e não coletamos intencionalmente dados pessoais de menores.
 
 ---
 
-## 7) Alterações nesta política
+## 8) Alterações nesta política
 
 Podemos atualizar esta Política de Privacidade periodicamente.  
 A data de "Última atualização" será ajustada quando houver mudanças.
 
 ---
 
-## 8) Contato
+## 9) Contato
 
 Se você tiver dúvidas sobre esta Política de Privacidade, entre em contato:
 
